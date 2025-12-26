@@ -50,14 +50,6 @@ Create a `.env` file in the `backend/` folder:
 GEMINI_API_KEY=your_actual_api_key_here
 ```
 
-If using VS Code: After activating the venv, open the backend folder in VS Code and select the interpreter:
-
-Press Cmd/Ctrl + Shift + P
-Type "Python: Select Interpreter"
-Choose the one inside ./venv/bin/python (or venv\Scripts\python.exe on Windows)
-
-This will resolve any Pylance import warnings.
-
 Start the server:
 ```bash
 uvicorn app.main:app --reload --port=8000
