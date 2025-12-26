@@ -1,9 +1,0 @@
-{
-  "python.defaultInterpreterPath": "/Users/vicky/Desktop/AI_Powered_Landing_Page/Backend/venv/bin/python",
-  "python.analysis.extraPaths": [
-    "/Users/vicky/Desktop/AI_Powered_Landing_Page/Backend/venv/lib/python3.12/site-packages"
-  ],
-  "python.languageServer": "Pylance",
-  "python.analysis.diagnosticMode": "workspace",
-  "python.analysis.typeCheckingMode": "off"
-}
