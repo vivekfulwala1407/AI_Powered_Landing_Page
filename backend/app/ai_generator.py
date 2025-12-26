@@ -1,8 +1,8 @@
 import os
 import json
 from dotenv import load_dotenv
-from google import genai
-from google.genai import types
+from google import genai #type: ignore
+from google.genai import types #type: ignore
 
 # Load env vars (GEMINI_API_KEY auto-detected)
 load_dotenv()
