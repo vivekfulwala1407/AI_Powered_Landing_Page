@@ -1,7 +1,5 @@
+.vscode/
 venv/
 __pycache__/
-*.pyc
 .env
-instance/
-.pytest_cache/
-.coverage
+node_modules/
